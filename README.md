@@ -40,6 +40,8 @@
 
 Integrador Odoo en Perú. Dirección de la empresa y entrega de módulos Odoo Enterprise v19 a medida.
 
+🔗 [openvoo.com](https://openvoo.com/)
+
 </td>
 <td width="33%" valign="top">
 
@@ -55,6 +57,8 @@ ERP para Mypes sobre Odoo: facturación electrónica SUNAT preconfigurada, plant
 
 ### 🏭 PGM
 **Supervisor de Transformación Digital**
+
+Líder técnico y supervisor del área funcional en una consultora multinacional. Pilar técnico y arquitecto de soluciones con visión global en proyectos de implementación.
 
 </td>
 </tr>
@@ -84,6 +88,7 @@ ERP para Mypes sobre Odoo: facturación electrónica SUNAT preconfigurada, plant
 **⚙️ Automatización & infraestructura**
 - n8n + WhatsApp API para flujos B2B
 - Docker & Docker Compose para entornos portables
+- GitHub Actions para CI/CD y automatización del desarrollo
 - Git y flujo colaborativo
 
 **🧠 Enfoque**
@@ -95,17 +100,30 @@ ERP para Mypes sobre Odoo: facturación electrónica SUNAT preconfigurada, plant
 
 ---
 
+## 🧭 Metodologías
+
+> **Spec-Driven Development (SDD)** es una metodología donde una especificación detallada, formal y estructurada precede y guía la codificación, y se convierte en la «fuente de verdad» del proyecto, tanto para humanos como para asistentes de IA.
+>
+> Aplicada a la implementación o personalización de un ERP, SDD evita la improvisación y los problemas típicos del desarrollo asistido por IA: la deriva contextual, la fragmentación de la lógica de negocio y la alta deuda técnica.
+
+---
+
 ## 💼 Experiencia
 
 | Rol | Empresa | Periodo | Enfoque |
 |---|---|---|---|
-| 👔 **CEO** | OpenVoo | Actualidad | Integrador Odoo en Perú |
+| 👔 **CEO** | [OpenVoo](https://openvoo.com/) | Actualidad | Integrador Odoo en Perú |
 | 🚀 **Fundador** | VGER SOFT | Actualidad | ERP para Mypes sobre Odoo |
-| 🏭 **Supervisor de Transformación Digital** | PGM | Actualidad | — |
-| 🔬 **Desarrollador Odoo** | Transgenia (Remoto) | 2024 – Actualidad | Laboratorios y biotecnología, n8n, APIs REST |
-| 🌐 **Desarrollador Senior Python** | Indasoge SpA (Remoto) | — | Nómina configurable, procesos en segundo plano |
-| 🇪🇸 **Odoo Developer** | Process Control (España, remoto) | — | Migración masiva SAGE ↔ Odoo vía API |
-| 💼 **Full Stack Odoo Developer** | Big Odoo | — | Proyectos B2B: hoteles, mecánicas, contables, veterinarias |
+| 🏭 **Supervisor de Transformación Digital** | PGM | Actualidad | Líder técnico y arquitecto de soluciones en implementaciones de consultora multinacional |
+
+### 🗂️ Experiencia anterior
+
+| Rol | Empresa | Enfoque |
+|---|---|---|
+| 🔬 **Desarrollador Odoo** | Transgenia (Remoto) | Laboratorios y biotecnología, n8n, APIs REST |
+| 🌐 **Desarrollador Senior Python** | Indasoge SpA (Remoto) | Nómina configurable, procesos en segundo plano |
+| 🇪🇸 **Odoo Developer** | Process Control (España, remoto) | Migración masiva SAGE ↔ Odoo vía API |
+| 💼 **Full Stack Odoo Developer** | Big Odoo | Proyectos B2B: hoteles, mecánicas, contables, veterinarias |
 
 ---
 
