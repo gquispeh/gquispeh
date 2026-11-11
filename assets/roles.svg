@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 448" width="1200" height="448" role="img" aria-labelledby="t d">
+  <title id="t">Lo que hago hoy</title>
+  <desc id="d">CEO de OpenVoo, fundador de VGER SOFT y Supervisor de Transformación Digital en PGM.</desc>
+  <defs>
+    <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#141d2b" stroke-width="1"/>
+    </pattern>
+    <clipPath id="c"><rect width="1200" height="448" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+    .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+    .h{animation:hl 12s linear infinite}
+    .p{transform-box:fill-box;transform-origin:0 50%;animation:pg 12s linear infinite}
+    .d2{animation-delay:4s}
+    .d3{animation-delay:8s}
+    @keyframes hl{0%,30%{opacity:1}33.3%,100%{opacity:0}}
+    @keyframes pg{0%{transform:scaleX(0)}33.3%{transform:scaleX(1)}33.4%,100%{transform:scaleX(0)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+
+  <g clip-path="url(#c)">
+    <rect width="1200" height="448" fill="#0b1018"/>
+    <rect width="1200" height="448" fill="url(#g)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="447" rx="18" fill="none" stroke="#223047"/>
+
+  <text x="56" y="64" class="mono" font-size="22" letter-spacing="1" fill="#e6edf3">GQ / LO QUE HAGO HOY</text>
+  <text x="56" y="96" class="mono" font-size="15" fill="#8b9bb0">Tres frentes activos: dirección, producto y arquitectura de soluciones.</text>
+
+  <!-- 01 OpenVoo -->
+  <rect x="56" y="128" width="344" height="236" rx="14" fill="#101826" stroke="#223047"/>
+  <rect class="h" x="56" y="128" width="344" height="236" rx="14" fill="none" stroke="#7ee0b8" stroke-width="2.5" opacity="1"/>
+  <text x="84" y="172" class="mono" font-size="17" letter-spacing="1" fill="#7ee0b8">01 / OPENVOO</text>
+  <text x="84" y="210" class="sans" font-size="22" font-weight="700" fill="#e6edf3">CEO</text>
+  <g class="mono" font-size="15" fill="#aab6c6">
+    <text x="84" y="246">Integrador Odoo en Perú.</text>
+    <text x="84" y="268">Dirección de la empresa y</text>
+    <text x="84" y="290">módulos Odoo v19 a medida.</text>
+  </g>
+  <text x="84" y="338" class="mono" font-size="14" fill="#6f8097">openvoo.com</text>
+
+  <!-- 02 VGER SOFT -->
+  <rect x="428" y="128" width="344" height="236" rx="14" fill="#101826" stroke="#223047"/>
+  <rect class="h d2" x="428" y="128" width="344" height="236" rx="14" fill="none" stroke="#7cc4ff" stroke-width="2.5" opacity="0"/>
+  <text x="456" y="172" class="mono" font-size="17" letter-spacing="1" fill="#7cc4ff">02 / VGER SOFT</text>
+  <text x="456" y="210" class="sans" font-size="22" font-weight="700" fill="#e6edf3">Fundador</text>
+  <g class="mono" font-size="15" fill="#aab6c6">
+    <text x="456" y="246">ERP para Mypes sobre Odoo.</text>
+    <text x="456" y="268">Facturación SUNAT lista y</text>
+    <text x="456" y="290">puesta en marcha en 3–5 días.</text>
+  </g>
+  <text x="456" y="338" class="mono" font-size="14" fill="#6f8097">vger.odoo.com</text>
+
+  <!-- 03 PGM -->
+  <rect x="800" y="128" width="344" height="236" rx="14" fill="#101826" stroke="#223047"/>
+  <rect class="h d3" x="800" y="128" width="344" height="236" rx="14" fill="none" stroke="#f2a66e" stroke-width="2.5" opacity="0"/>
+  <text x="828" y="172" class="mono" font-size="17" letter-spacing="1" fill="#f2a66e">03 / PGM</text>
+  <text x="828" y="210" class="sans" font-size="22" font-weight="700" fill="#e6edf3">Supervisor de</text>
+  <text x="828" y="238" class="sans" font-size="22" font-weight="700" fill="#e6edf3">Transformación Digital</text>
+  <g class="mono" font-size="15" fill="#aab6c6">
+    <text x="828" y="274">Líder técnico y supervisor del</text>
+    <text x="828" y="296">área funcional. Arquitecto de</text>
+    <text x="828" y="318">soluciones con visión global</text>
+    <text x="828" y="340">en consultora multinacional.</text>
+  </g>
+
+  <!-- progreso -->
+  <g fill="#1c2738">
+    <rect x="56" y="380" width="344" height="4" rx="2"/>
+    <rect x="428" y="380" width="344" height="4" rx="2"/>
+    <rect x="800" y="380" width="344" height="4" rx="2"/>
+  </g>
+  <rect class="p" x="56" y="380" width="344" height="4" rx="2" fill="#7ee0b8"/>
+  <rect class="p d2" x="428" y="380" width="344" height="4" rx="2" fill="#7cc4ff" style="transform:scaleX(0)"/>
+  <rect class="p d3" x="800" y="380" width="344" height="4" rx="2" fill="#f2a66e" style="transform:scaleX(0)"/>
+
+  <g class="mono" font-size="16" fill="#e6edf3">
+    <text class="h" x="56" y="420" opacity="1">01 / Dirección: estrategia y entrega de proyectos Odoo.</text>
+    <text class="h d2" x="56" y="420" opacity="0">02 / Producto: un ERP para Mypes listo en días, no en meses.</text>
+    <text class="h d3" x="56" y="420" opacity="0">03 / Arquitectura: liderazgo técnico en implementaciones.</text>
+  </g>
+</svg>
