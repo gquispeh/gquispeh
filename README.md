@@ -1,97 +1,148 @@
-<h1 align="center">🚀 Gerardo Andrés Quispe Herrera</h1>
-<p align="center">
-  <b>Senior Odoo Developer</b> | <b>Especialista en Transformación Digital</b> | <b>Python Developer</b> | <b>Entusiasta de IA</b>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:0ea5e9&height=190&section=header&text=Gerardo%20Quispe&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CEO%20%C2%B7%20Odoo%20%C2%B7%20Transformaci%C3%B3n%20Digital%20%C2%B7%20IA&descAlignY=60&descSize=18" alt="Header" width="100%"/>
+
+### Gerardo Andrés Quispe Herrera
+
+**CEO de OpenVoo** · **Fundador de VGER SOFT** · **Supervisor de Transformación Digital en PGM**
+
+<p>
+  <a href="mailto:gerardoxquispe15@gmail.com"><img src="https://img.shields.io/badge/Email-gerardoxquispe15%40gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gquispeh/"><img src="https://img.shields.io/badge/LinkedIn-Gerardo%20Quispe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://vger.odoo.com/"><img src="https://img.shields.io/badge/VGER%20ERP-vger.odoo.com-6d28d9?style=for-the-badge&logo=odoo&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <a href="mailto:gerardoxquispe15@gmail.com"><img src="https://img.shields.io/badge/email-gerardoxquispe15@gmail.com-blue?style=flat&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/gquispeh/"><img src="https://img.shields.io/badge/LinkedIn-Gerardo%20Quispe%20Herrera-blue?style=flat&logo=linkedin"></a>
-  <img src="https://img.shields.io/badge/Odoo-18%20Certified-success?logo=odoo"/>
-  <img src="https://img.shields.io/badge/Python-Developer-yellow?logo=python"/>
-  <img src="https://img.shields.io/badge/AI-Explorer-purple?logo=ibm"/>
+<p>
+  <img src="https://img.shields.io/badge/Odoo-v18%20Certified-00A09D?style=flat-square&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-Optimizaci%C3%B3n-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-Automatizaci%C3%B3n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-Explorer-8b5cf6?style=flat-square"/>
 </p>
 
----
-
-¡Bienvenido a mi perfil de GitHub! Soy consultor y desarrollador con más de 6 años de experiencia en el ecosistema Odoo, ayudando a empresas de diversas industrias a transformar sus operaciones mediante soluciones ERP personalizadas, integraciones efectivas y automatización de procesos.
-
-Mi pasión es la tecnología aplicada a resolver problemas reales de negocio. Actualmente exploro y aplico herramientas de inteligencia artificial, automatización con n8n, y APIs para maximizar el valor de las plataformas empresariales.
-
-## 🌟 Habilidades Técnicas Destacadas
-
-- **Odoo ERP Development (v10 a v18):** Módulos a medida, migraciones, personalizaciones y soporte funcional/técnico.
-- **Certificación Oficial Odoo v18** ✅
-- **Python:** Backend y automatización de procesos.
-- **PostgreSQL:** Consultas complejas y optimización de bases de datos.
-- **API REST:** Desarrollo, consumo y testing con Postman.
-- **Docker & Docker Compose:** Entornos portables para desarrollo e integración.
-- **Git:** Flujo colaborativo de desarrollo.
-- **n8n + WhatsApp API:** Automatizaciones inteligentes para empresas B2B.
-- **Metodologías Ágiles:** Scrum y Kanban.
+</div>
 
 ---
 
-## 💼 Experiencia Profesional
-
-**🔬 Desarrollador Odoo – Transgenia (Remoto) (2024 – Actualidad)**
-- Módulos para gestión de laboratorios y biotecnología.
-- Automatización de procesos internos con n8n.
-- Integración de servicios externos vía API REST.
-
-**🌐 Desarrollador Senior Python – Indasoge SpA (Remoto)**
-- Módulos avanzados de nómina con templates configurables.
-- Optimización de procesos en segundo plano con threading.
-
-**🇪🇸 Odoo Developer – Process Control (España, remoto)**
-- Integración SAGE y Odoo vía API para migración masiva.
-- Funcionalidades a medida para empresas industriales.
-
-**💼 Full Stack Odoo Developer – Big Odoo**
-- Proyectos B2B multivertical (hoteles, mecánicas, estudios contables, veterinarias).
+> Más de **6 años** con el ecosistema **Odoo**: soluciones ERP a medida, integraciones y automatización de procesos para empresas de distintas industrias. Hoy lidero **OpenVoo** y **VGER SOFT**, y aplico **IA** y **n8n** para que la tecnología resuelva problemas reales de negocio.
 
 ---
 
-## 🎓 Educación
+## 🎯 Lo que hago hoy
 
-- **Universidad Nacional de Ingeniería (UNI) – Perú**  
-  Bachiller en Ingeniería de Sistemas
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 👔 OpenVoo
+**CEO**
+
+Integrador Odoo en Perú. Dirección de la empresa y entrega de módulos Odoo Enterprise v19 a medida.
+
+</td>
+<td width="33%" valign="top">
+
+### 🚀 VGER SOFT
+**Fundador**
+
+ERP para Mypes sobre Odoo: facturación electrónica SUNAT preconfigurada, plantillas por rubro e implementación en 3 a 5 días.
+
+🔗 [vger.odoo.com](https://vger.odoo.com/)
+
+</td>
+<td width="33%" valign="top">
+
+### 🏭 PGM
+**Supervisor de Transformación Digital**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏅 Certificaciones
+## 🌟 Habilidades técnicas
 
-- ✅ Odoo 18 Certified Professional
-- 🧠 AI Fundamentals – IBM
-- 🚀 Agile Explorer – IBM
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🧩 Odoo & ERP**
+- Desarrollo de módulos a medida (v10 → v18)
+- Migraciones, personalizaciones y soporte funcional/técnico
+- Localización fiscal y facturación electrónica
+
+**🐍 Backend & datos**
+- Python: backend y automatización de procesos
+- PostgreSQL: consultas complejas y optimización
+- API REST: desarrollo, consumo y testing con Postman
+
+</td>
+<td valign="top" width="50%">
+
+**⚙️ Automatización & infraestructura**
+- n8n + WhatsApp API para flujos B2B
+- Docker & Docker Compose para entornos portables
+- Git y flujo colaborativo
+
+**🧠 Enfoque**
+- Metodologías ágiles: Scrum y Kanban
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💡 ¿Qué encontrarás aquí?
+## 💼 Experiencia
 
-- Módulos Odoo desarrollados por mí
-- Automatizaciones con n8n
-- Scripts en Python para integración y análisis
-- Experimentos con tecnologías AI & ERP
+| Rol | Empresa | Periodo | Enfoque |
+|---|---|---|---|
+| 👔 **CEO** | OpenVoo | Actualidad | Integrador Odoo en Perú |
+| 🚀 **Fundador** | VGER SOFT | Actualidad | ERP para Mypes sobre Odoo |
+| 🏭 **Supervisor de Transformación Digital** | PGM | Actualidad | — |
+| 🔬 **Desarrollador Odoo** | Transgenia (Remoto) | 2024 – Actualidad | Laboratorios y biotecnología, n8n, APIs REST |
+| 🌐 **Desarrollador Senior Python** | Indasoge SpA (Remoto) | — | Nómina configurable, procesos en segundo plano |
+| 🇪🇸 **Odoo Developer** | Process Control (España, remoto) | — | Migración masiva SAGE ↔ Odoo vía API |
+| 💼 **Full Stack Odoo Developer** | Big Odoo | — | Proyectos B2B: hoteles, mecánicas, contables, veterinarias |
+
+---
+
+## 🎓 Formación & certificaciones
+
+- 🎓 **Bachiller en Ingeniería de Sistemas** — Universidad Nacional de Ingeniería (UNI), Perú
+- ✅ **Odoo 18 Certified Professional**
+- 🧠 **AI Fundamentals** — IBM
+- 🏃 **Agile Explorer** — IBM
 
 ---
 
 ## 📈 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gquispeh&show_icons=true&theme=radical" alt="gquispeh stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gquispeh&layout=compact&theme=radical" alt="gquispeh top languages" />
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gquispeh&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gquispeh&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes principales" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=gquispeh&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trofeos" />
+
+</div>
 
 ---
 
-## 📬 Contacto
+## 📬 Conectemos
 
-- 📧 **Email:** [gerardoxquispe15@gmail.com](mailto:gerardoxquispe15@gmail.com)
-- 🔗 **LinkedIn:** [Gerardo Andrés Quispe Herrera](https://www.linkedin.com/in/gerardo-andres-quispe-herrera/)
-- 🌐 **Portafolio / Blog:** *(¡Agrega aquí tu sitio si tienes uno!)*
+<div align="center">
 
----
+<a href="mailto:gerardoxquispe15@gmail.com"><img src="https://img.shields.io/badge/Escr%C3%ADbeme-Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/gquispeh/"><img src="https://img.shields.io/badge/Conecta-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://vger.odoo.com/"><img src="https://img.shields.io/badge/Visita-VGER%20ERP-6d28d9?style=for-the-badge&logo=odoo&logoColor=white"></a>
 
-<p align="center">
-   <i>“La tecnología es el puente entre los desafíos y las soluciones.”</i>
-</p>
+<br/><br/>
+
+<i>“La tecnología es el puente entre los desafíos y las soluciones.”</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6d28d9,100:0f172a&height=110&section=footer" width="100%" alt="Footer"/>
+
+</div>
